@@ -6,7 +6,7 @@ namespace ListPerformance
     {
         static void Main(string[] args)
         {
-            string path = "C:\\SkillFactory\\module3\\ConparePerformance_13_6_1\\Text1.txt";
+            string path = "C:\\SkillFactory\\module3\\CompareLists\\Text1.txt";
             string text = File.ReadAllText(path);
 
             // Сохраняем символы-разделители в массив
